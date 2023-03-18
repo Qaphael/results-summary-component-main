@@ -238,6 +238,11 @@ section {
     border-radius: 25px;
     margin-bottom: auto;
     margin-top: 20px;
+    cursor: pointer;
+}
+
+.btn {
+    background-image: linear-gradient(var(--Light-slate-blue-background), var(--Light-royal-blue-background));
 }
 
 @media (max-width: 650px) {
